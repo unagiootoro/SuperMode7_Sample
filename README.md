@@ -1,10 +1,12 @@
 # SuperMode7サンプルプロジェクト
 ## 概要
 このプロジェクトはSuperMode7のサンプルです。
-以下のリンクより、このサンプルプロジェクトをブラウザでお試しいただくことができます。
+以下のリンクより、このサンプルプロジェクトをブラウザでお試しいただくことができます。<br>
 [https://unagiootoro.github.io/SuperMode7_Sample/](https://unagiootoro.github.io/SuperMode7_Sample/)
 
-また、プラグイン単体のダウンロードは以下のページで行うことができます。
+サンプルプロジェクトをお持ち帰りの際は、ページ右上にある緑色の「Code」マークを右クリックして「Download ZIP」でダウンロードすることができます。
+
+また、プラグイン単体のダウンロードは以下のページで行うことが可能です。
 [https://github.com/unagiootoro/RPGMZ](https://github.com/unagiootoro/RPGMZ)
 
 ## ライセンス
