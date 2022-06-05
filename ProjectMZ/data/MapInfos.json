@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"テストマップ","order":2,"parentId":0,"scrollX":1061.142857142857,"scrollY":590.5714285714286},
+{"id":1,"expanded":false,"name":"テストマップ","order":2,"parentId":0,"scrollX":825.3333333333334,"scrollY":459.3333333333333},
+{"id":2,"expanded":false,"name":"フィールド_VXAce","order":3,"parentId":0,"scrollX":825.3333333333334,"scrollY":687.3333333333334},
 null,
-null,
-{"id":4,"expanded":false,"name":"フィールド1","order":1,"parentId":0,"scrollX":1074.857142857143,"scrollY":1091.142857142857}
+{"id":4,"expanded":false,"name":"フィールド1","order":1,"parentId":0,"scrollX":836,"scrollY":1335.3333333333333}
 ]
